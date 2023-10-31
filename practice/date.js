@@ -1,0 +1,11 @@
+let date=new Date();
+console.log(date);
+console.log(date.toString());
+console.log(date.toDateString());
+console.log(date.toLocaleDateString());
+console.log(date.toLocaleString());
+console.log(date.toLocaleTimeString());
+console.log(date.getTimezoneOffset());
+let CreatedDate=new Date(2029,4,27);
+console.log(CreatedDate);
+console.log(CreatedDate.toDateString());
