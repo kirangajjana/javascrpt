@@ -1,2 +1,2 @@
 # javascrpt
-Javascript projects 
+Javascript projects..
